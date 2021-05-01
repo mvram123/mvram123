@@ -13,7 +13,7 @@
 
 📫 How to reach me:
 - Gmail: mramarao923@gmail.com
-- Linkedin: [Ramarao Mv](https://www.linkedin.com/in/ramarao-mv-44b100171/)
+- Linkedin: [Ramarao Mv](https://www.linkedin.com/in/ramarao-mv)
 - Youtube Channel: [Ramarao MV](https://www.youtube.com/c/AIJRVAE/)
 <!--
 **mvram123/mvram123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

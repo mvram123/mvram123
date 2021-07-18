@@ -11,6 +11,7 @@
 
 ✉️ Gmail : mramarao923@gmail.com
 
+
 ## Connect with me:
 
 [<img align="left" alt="Vocal Media" height="27px"  src="https://github.com/mvram123/mvram123/blob/main/Logos/vocal_media.png" />][vocal]
@@ -20,6 +21,11 @@
 
 
 <br />
+
+## Languages and Tools:
+
+<img align="left" alt="Skills_2" width="45%"  src="https://github.com/mvram123/mvram123/blob/main/Skills/Skills2.png" />
+<img align="left" alt="Skills_1" width="45%"  src="https://github.com/mvram123/mvram123/blob/main/Skills/Skills1.png" />
 
 
 [vocal]: https://vocal.media/authors/m-v-ramarao

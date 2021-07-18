@@ -12,6 +12,20 @@
 ✉️ Gmail : mramarao923@gmail.com
 
 
+## Languages and Tools:
+
+<img align="left" alt="Skills" src="https://github.com/mvram123/mvram123/blob/main/Skills/Skill.png" />
+
+<br />
+
+
+
+## Github Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mvram123&show_icons=true&count_private=true" align="center" /></div>  
+
+<br/>  
+
 ## Connect with me:
 
 [<img align="left" alt="Vocal Media" height="27px"  src="https://github.com/mvram123/mvram123/blob/main/Logos/vocal_media.png" />][vocal]
@@ -19,19 +33,16 @@
 [<img align="left" alt="YouTube" width="30px" src="https://github.com/mvram123/mvram123/blob/main/Logos/youtube.png" />][youtube]
 [<img align="left" alt="Twitter" width="30px" src="https://github.com/mvram123/mvram123/blob/main/Logos/twitter.png" />][twitter]
 
-
-<br />
-
-## Languages and Tools:
-
-<img align="left" alt="Skills_2" width="45%"  src="https://github.com/mvram123/mvram123/blob/main/Skills/Skills2.png" />
-<img align="left" alt="Skills_1" width="45%"  src="https://github.com/mvram123/mvram123/blob/main/Skills/Skills1.png" />
-
-
 [vocal]: https://vocal.media/authors/m-v-ramarao
 [twitter]: https://twitter.com/rammv17
 [youtube]: https://www.youtube.com/aijrvae
 [linkedin]: https://www.linkedin.com/in/ramarao-mv
+
+<br />
+
+
+
+
 
 <!--
 **mvram123/mvram123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

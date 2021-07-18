@@ -1,4 +1,5 @@
 ### Hi there 👋  
+
 # My name is M V Rama Rao
 
 📖 I am a 4th year Smart Manufacturing student at Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram, Chennai.
@@ -26,6 +27,20 @@
 
 <br/>  
 
+## Achievements
+
+1. Achieved a rank of “42” out of 4000 participants in the HackerEarth Machine Learning Challenge.
+
+2. Achieved a rank of “67” in the MachineHack ML Hackathon.
+
+3. Got HackerRank's “Gold with 5 stars” python badge.
+
+4. Owns a Youtube Channel with 225 subscribers and Instagram page with 3000 Followers on Data science.
+
+5. Cleared both JEE Advance and JEE Mains with Good score and Rank
+
+<br />
+
 ## Connect with me:
 
 [<img align="left" alt="Vocal Media" height="27px"  src="https://github.com/mvram123/mvram123/blob/main/Logos/vocal_media.png" />][vocal]
@@ -40,19 +55,3 @@
 
 <br />
 
-
-
-
-
-<!--
-**mvram123/mvram123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🔭 I’m currently working on 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -29,15 +29,15 @@
 
 ## Achievements
 
-1. Achieved a rank of “42” out of 4000 participants in the HackerEarth Machine Learning Challenge.
+1. Achieved a rank of **42** out of 4000 participants in the HackerEarth Machine Learning Challenge.
 
-2. Achieved a rank of “67” in the MachineHack ML Hackathon.
+2. Achieved a rank of **67** in the MachineHack ML Hackathon.
 
-3. Got HackerRank's “Gold with 5 stars” python badge.
+3. Got HackerRank's **Gold with 5 stars** python badge.
 
-4. Owns a Youtube Channel with 225 subscribers and Instagram page with 3000 Followers on Data science.
+4. Owns a Youtube Channel with **225 subscribers** and Instagram page with **3000 Followers** on Data science.
 
-5. Cleared both JEE Advance and JEE Mains with Good score and Rank
+5. Cleared both **JEE Advance** and **JEE Mains** with Good score and Rank
 
 <br />
 

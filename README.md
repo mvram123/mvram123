@@ -4,7 +4,7 @@
 
 📖 I am a 4th year Smart Manufacturing student at Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram, Chennai.
 
-🤖 I am currently working as a Machine Learning Intern at 4climate
+🤖 I am currently working as a Data Science Intern at iNeuron.ai
 
 👯 I am very active in participating Data Science and Machine Learning Hackathons. 
 

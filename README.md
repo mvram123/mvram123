@@ -8,7 +8,7 @@
 
 👯 I am very active in participating Data Science and Machine Learning Hackathons. 
 
-🕵🏻 I am looking forward to build my career as a Data Scientist / Data Analyst 
+🕵🏻 I am looking forward to build my career as a Data Scientist / Machine Learning Engineer
 
 ✉️ Gmail : mramarao923@gmail.com
 

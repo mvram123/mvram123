@@ -2,11 +2,11 @@
 
 # My name is M V Rama Rao
 
-🧑‍💼 I am working as a Machine Learning Engineer in **Quantrium** to build ML solutions for customers use cases.
+🧑‍💼 I am working as a Machine Learning Engineer at **Quantrium** to build ML solutions for various customer use cases.
 
 💵 I work more on the development of ML solutions for **Banking and Financial** domains.
 
-✍️ I write about **Machine Learning, NLP, Personal Finance & Investing**
+✍️ I share my thoughts on **Machine Learning, NLP, Personal Finance & Investing**.
 
 🎓 I hold a graduate degree in Smart Manufacturing (IT) from **IITDM Kancheepuram**.
 

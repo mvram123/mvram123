@@ -2,13 +2,13 @@
 
 # My name is M V Rama Rao
 
-📖 I am a 4th year Smart Manufacturing student at Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram, Chennai.
+🧑‍💼 I am working as a Machine Learning Engineer in **Quantrium** to build ML solutions for customers use cases.
 
-🤖 I am currently working as a Data Science Intern at iNeuron.ai
+💵 I work more on the development of ML solutions for **Banking and Financial** domains.
 
-👯 I am very active in participating Data Science and Machine Learning Hackathons. 
+✍️ I write about **Machine Learning, NLP, Personal Finance & Investing**
 
-🕵🏻 I am looking forward to build my career as a Data Scientist / Machine Learning Engineer
+🎓 I hold a graduate degree in Smart Manufacturing (IT) from **IITDM Kancheepuram**.
 
 ✉️ Gmail : mramarao923@gmail.com
 
@@ -34,10 +34,6 @@
 2. Achieved a rank of **67** in the MachineHack ML Hackathon.
 
 3. Got HackerRank's **Gold with 5 stars** python badge.
-
-4. Owns a Youtube Channel with **225 subscribers** and Instagram page with **3000 Followers** on Data science.
-
-5. Cleared both **JEE Advance** and **JEE Mains** with Good score and Rank
 
 <br />
 

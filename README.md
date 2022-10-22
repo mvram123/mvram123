@@ -13,14 +13,6 @@
 ✉️ Gmail : mramarao923@gmail.com
 
 
-## Languages and Tools:
-
-<img align="left" alt="Skills" src="https://github.com/mvram123/mvram123/blob/main/Skills/Skill.png" />
-
-<br />
-
-
-
 ## Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mvram123&show_icons=true&count_private=true" align="center" /></div>  
@@ -29,25 +21,23 @@
 
 ## Achievements
 
-1. Achieved a rank of **42** out of 4000 participants in the HackerEarth Machine Learning Challenge.
+1. Ranked **25** out of 950 participants in the Renew Power Hiring Hackathon (by MachineHack).
 
-2. Achieved a rank of **67** in the MachineHack ML Hackathon.
+2. Ranked **42** out of 4000 participants in the HackerEarth Machine Learning Challenge.
 
-3. Got HackerRank's **Gold with 5 stars** python badge.
+3. Ranked **67** in the MachineHack ML Hackathon.
+
+4. Got HackerRank's **Gold with 5 stars** python badge.
 
 <br />
 
 ## Connect with me:
 
-[<img align="left" alt="Vocal Media" height="27px"  src="https://github.com/mvram123/mvram123/blob/main/Logos/vocal_media.png" />][vocal]
-[<img align="left" alt="LinkedIn" width="30px" src="https://github.com/mvram123/mvram123/blob/main/Logos/linkedin.png" />][linkedin]
-[<img align="left" alt="YouTube" width="30px" src="https://github.com/mvram123/mvram123/blob/main/Logos/youtube.png" />][youtube]
-[<img align="left" alt="Twitter" width="30px" src="https://github.com/mvram123/mvram123/blob/main/Logos/twitter.png" />][twitter]
+[<img align="left" alt="Vocal Media" height="26px"  src="https://github.com/mvram123/mvram123/blob/main/Logos/gmail.png" />][Gmail]
+[<img align="left" alt="LinkedIn" width="30px" src="https://github.com/mvram123/mvram123/blob/main/Logos/linkedin.png" />][Linkedin]
 
-[vocal]: https://vocal.media/authors/m-v-ramarao
-[twitter]: https://twitter.com/rammv17
-[youtube]: https://www.youtube.com/aijrvae
-[linkedin]: https://www.linkedin.com/in/ramarao-mv
+[Gmail]: mramarao923@gmail.com
+[Linkedin]: https://www.linkedin.com/in/ramarao-mv
 
 <br />
 

@@ -21,9 +21,9 @@
 
 ## Achievements
 
-1. Ranked **25** out of 950 participants in the Renew Power Hiring Hackathon (by MachineHack).
+1. Ranked **25** out of **950** participants in the Renew Power Hiring Hackathon (by MachineHack).
 
-2. Ranked **42** out of 4000 participants in the HackerEarth Machine Learning Challenge.
+2. Ranked **42** out of **4000** participants in the HackerEarth Machine Learning Challenge.
 
 3. Ranked **67** in the MachineHack ML Hackathon.
 
